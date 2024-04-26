@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+</HEAD>
+<BODY BGCOLOR=BLUE TEXT=YELLOW>
+<P ALIGN=CENTER>
+<FONT SIZE=5 COLOR=red>
+<B>Драматические &nbsp; &nbsp; &nbsp; &nbsp;  театры</B> <BR>
+</FONT>
+<I>Санкт-Петербурга</I>
+</FONT>
+</P>
+<P ALIGN=LEFT>
+<Ol type="square">
+<Li>Драматический театр им.Комиссарежевской
+<Li>Малый драматический театр "Европа"
+<Li>Драматический театр на Литейном
+<Li>Большой драматический им.Товстоногова
+</Ol>
+</P>
+</BODY>
+</HTML>
+<CENTER>
+<IMG SRC='https://kuda-spb.ru/uploads/cd7764b2e583e1e545369e84060624b5.jpg' alt='драматический театр' width=50%
+height=50% vspace=20 hspace=20 border=5>
+</CENTER>
